@@ -42,8 +42,8 @@ Porém, esse algoritmo não funciona para todos os octantes,sendo necessário ge
 
 Observa-se que a generalização é feita a partir da observação do delta x e do delta y em relação a 0,apos algumas modficiações no algoritmo em relação ao que foi dito chega-se ao seguinte resultado(Função DrawLine chamada 8 vezes para representar os octantes):
 
+![bresehan_gene](https://user-images.githubusercontent.com/40369696/44007775-9e39a574-9e71-11e8-9a9a-29416b6c8569.PNG)
 
-
-
+Mas foi especificado para ter interpolação entre cores quando o DrawLine fosse chamado,entao foi feito mais incrementos na função para se chegar a interpolação,foi usado a fórmula da distância entre dois pontos:
 
 
