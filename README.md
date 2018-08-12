@@ -16,7 +16,7 @@ Neste primeiro momento foi pedido a implementação de três funções: PutPixel
 
 # PutPixel
 
-Função que pinta na tela um único pixel dado a posição x,y e as cores, segue o código:
+Função que pinta na tela um pixel dado a posição x,y e as cores, segue o código:
 
 ![putpixel](https://user-images.githubusercontent.com/40369696/44006436-c49a6260-9e5a-11e8-9d2e-52bc4c9d448e.PNG)
 
@@ -24,6 +24,11 @@ Função que pinta na tela um único pixel dado a posição x,y e as cores, segu
 É possível observar que as posições são multiplicadas por 4,isso se da porque cada pixel ocupa 4 posições na memória referentes a cada cor,alem disso para que se possa locomover a posição y de forma adequada, faz-se necessário o uso da largura da tela criada, que no caso esta em 512x512.Resultado da aplicação dessa função quando chamada 6 vezes com cores e posições diferentes:
 
 ![put_pixel](https://user-images.githubusercontent.com/40369696/44006476-8945ec56-9e5b-11e8-9bdb-14415655dbb5.PNG)
+
+
+#DrawLine
+
+Função que desenha uma linha na tela recebendo como parâmetro o ponto inicial e o ponto final.Para implementar essa função é necessário usar algum algorítmo de rasterização,no caso foi utilizado o de bresenham:
 
 
 
