@@ -34,6 +34,10 @@ Função que desenha uma linha na tela recebendo como parâmetro o ponto inicial
 
 É calculado a variação do x e y final em relaçao ao inicial,depois o ponto de decisão e os incrementos.Então inicia-se um loop para pintar os pixels de acordo com a variável de decisão,resultado dessa função implementada:
 
+![bresehan_1_oc](https://user-images.githubusercontent.com/40369696/44007672-0da78d74-9e70-11e8-9770-695702d6a0a2.PNG)
+
+Porém, esse algoritmo não funciona para todos os octantes,sendo necessário generaliza-lo:
+
 
 
 
