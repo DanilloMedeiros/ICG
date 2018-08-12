@@ -5,4 +5,4 @@
 # Rasterização
 
 Rasterizar nada mais é do que desenhar imagens na tela do computador, porém, essa representação é feita através de pixels que são pequenos
-quadrados pintados na tela, usando o padrão de cor RGBA: vermelho,verde, azul e alpha.
+quadrados pintados na tela, usando o padrão de cor:
