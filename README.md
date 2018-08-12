@@ -30,5 +30,13 @@ Função que pinta na tela um pixel dado a posição x,y e as cores, segue o có
 
 Função que desenha uma linha na tela recebendo como parâmetro o ponto inicial e o ponto final.Para implementar essa função é necessário usar algum algorítmo de rasterização,no caso foi utilizado o de bresenham:
 
+![bresenham](https://user-images.githubusercontent.com/40369696/44007604-1e9b4b9e-9e6f-11e8-945f-306d2caf18e1.PNG)
+
+É calculado a variação do x e y final em relaçao ao inicial,depois o ponto de decisão e os incrementos.Então inicia-se um loop para pintar os pixels de acordo com a variável de decisão,resultado dessa função implementada:
+
+
+
+
+
 
 
