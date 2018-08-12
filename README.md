@@ -40,6 +40,9 @@ Porém, esse algoritmo não funciona para todos os octantes,sendo necessário ge
 
 ![octates](https://user-images.githubusercontent.com/40369696/44007730-e0a942ee-9e70-11e8-897f-5ca62ea0a526.PNG)
 
+Observa-se que a generalização é feita a partir da observação do delta x e do delta y em relação a 0,apos algumas modficiações no algoritmo em relação ao que foi dito chega-se ao seguinte resultado(Função DrawLine chamada 8 vezes para representar os octantes):
+
+
 
 
 
