@@ -38,7 +38,7 @@ Função que desenha uma linha na tela recebendo como parâmetro o ponto inicial
 
 Porém, esse algoritmo não funciona para todos os octantes,sendo necessário generaliza-lo:
 
-
+![octates](https://user-images.githubusercontent.com/40369696/44007730-e0a942ee-9e70-11e8-897f-5ca62ea0a526.PNG)
 
 
 
