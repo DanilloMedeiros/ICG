@@ -71,5 +71,13 @@ Possíveis melhorias: Otimização do código.
 
 # Referências:
 
+https://mundoeducacao.bol.uol.com.br/matematica/distancia-entre-dois-pontos.htm
 
-*Contribuidores Danillo Medeiros e Renan 
+https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
+
+https://pt.wikipedia.org/wiki/Rasteriza%C3%A7%C3%A3o
+
+E também foi feito o uso de materiais disponibilizados pelo professor
+
+
+*Contribuidores Danillo Medeiros e Renan Ribeiro
