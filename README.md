@@ -12,7 +12,7 @@ a rasterização de uma reta:
 
 # Funções
 
-Neste primeiro momento foi pedido a implementação de três funções: PutPixel,DrawLine e DrawTriangle
+Neste primeiro momento foi pedido a implementação de três funções: PutPixel,DrawLine e DrawTriangle.
 
 # PutPixel
 
