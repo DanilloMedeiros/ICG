@@ -18,7 +18,7 @@ Neste primeiro momento foi pedido a implementação de três funções: PutPixel
 
 Função que pinta na tela um pixel dado a posição x,y e as cores, segue o código:
 
-![putpixel](https://user-images.githubusercontent.com/40369696/44006436-c49a6260-9e5a-11e8-9d2e-52bc4c9d448e.PNG)
+![putpixel2](https://user-images.githubusercontent.com/40369696/44057217-d235a8d2-9f20-11e8-8901-b149bafdd5f0.PNG)
 
 
 É possível observar que as posições são multiplicadas por 4,isso se da porque cada pixel ocupa 4 posições na memória referentes a cada cor,alem disso para que se possa locomover a posição y de forma adequada, faz-se necessário o uso da largura da tela criada, que no caso esta em 512x512.Resultado da aplicação dessa função quando chamada 6 vezes com cores e posições diferentes:
@@ -61,3 +61,15 @@ A função DrawTriangle se responsabiliza por rasterizar um triângulo na tela u
 ![triangulo](https://user-images.githubusercontent.com/40369696/44008044-02a4edb8-9e75-11e8-8b84-12c1846d19ff.PNG)
 
 ![mix](https://user-images.githubusercontent.com/40369696/44008066-4411af20-9e75-11e8-81f5-188fdf7fe8b9.PNG)
+
+# Resultados
+
+As três funções foram implementadas da maneira pedida e se mostraram efiazes no resultado final.
+
+Principais dificuldades: Um pequeno intervalo de tempo foi gasto para conseguir rodar o framework no windows, pois ele vem pronto para linux,também mostrou-se trabalhoso fazer a interpolação de cores e generalizar o bresenham.
+
+Possíveis melhorias: Otimização do código.
+
+# Referências:
+
+
