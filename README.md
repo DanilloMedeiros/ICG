@@ -2,6 +2,8 @@
 
 *Este documento trata de expor os trabalhos referentes a disciplina de ICG ministrada na Universidade Federal da Paraíba* 
 
+Neste primeiro momento foi pedido a implementação de três funções: PutPixel, DrawLine e DrawTriangle que servem respectivamente para desenhar pontos, linhas e triângulos na tela do computador.
+
 # Rasterização
 
 Rasterizar nada mais é do que desenhar imagens na tela do computador, porém, essa representação é feita através de pixels que são pequenos
@@ -10,9 +12,6 @@ a rasterização de uma reta:
 
 ![rasterizacao](https://user-images.githubusercontent.com/40369696/44006271-ffdad556-9e57-11e8-910e-b691df793951.PNG)
 
-# Funções
-
-Neste primeiro momento foi pedido a implementação de três funções: PutPixel,DrawLine e DrawTriangle.
 
 # PutPixel
 
