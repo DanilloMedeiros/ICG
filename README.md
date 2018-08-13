@@ -46,4 +46,9 @@ Observa-se que a generalização é feita a partir da observação do delta x e 
 
 Mas foi especificado para ter interpolação entre cores quando o DrawLine fosse chamado,entao foi feito mais incrementos na função para se chegar a interpolação,foi usado a fórmula da distância entre dois pontos:
 
+![pontos](https://user-images.githubusercontent.com/40369696/44007821-3f56791e-9e72-11e8-8262-e76917fbf3a1.PNG)
+
+Depois foi feito cáculos envolvendo as 2 cores passadas como parâmetro,subtraindo-as depois dividindo pelo delta x ou delta y, o resultado disso é guardado em variáveis que vao incrementando outra variável que começara do mesmo lugar dar cor do ponto inicial:
+
+
 
