@@ -52,3 +52,9 @@ Depois foi feito cáculos envolvendo as 2 cores passadas como parâmetro,subtrai
 
 ![bresehan_gene_inter](https://user-images.githubusercontent.com/40369696/44007881-e0db75c8-9e72-11e8-85a9-83123d2ab64a.PNG)
 
+![cubo](https://user-images.githubusercontent.com/40369696/44008001-7fd07f42-9e74-11e8-8082-a417a5d78948.PNG)
+
+#Função DrawTriangle
+
+A função DrawTriangle se responsabiliza por rasterizar um triângulo na tela usando as funções ja implementadas anteriormente,ou seja se resume a chamar a DrawLine 3 vezes:
+
